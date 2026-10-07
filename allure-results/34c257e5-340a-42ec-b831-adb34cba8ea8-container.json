@@ -1,0 +1,1 @@
+{"uuid": "c09cfe83-8c83-40e8-99fe-64ec3a014ae3", "befores": [{"name": "pytestbdd_stepdef_given_I am on the SauceDemo login page", "status": "passed", "start": 1791350512816, "stop": 1791350512816}], "afters": [{"name": "pytestbdd_stepdef_given_I am on the SauceDemo login page::<lambda>", "start": 1791350514855}], "start": 1791350512816, "stop": 1791350514855}

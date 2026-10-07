@@ -1,0 +1,1 @@
+{"uuid": "cd92c66e-ddb5-43fb-baf7-e8b128dcb722", "befores": [{"name": "pytestbdd_stepdef_when_I open the menu and select Reset App State", "status": "passed", "start": 1791350543641, "stop": 1791350543641}], "afters": [{"name": "pytestbdd_stepdef_when_I open the menu and select Reset App State::<lambda>", "start": 1791350544622}], "start": 1791350543641, "stop": 1791350544622}

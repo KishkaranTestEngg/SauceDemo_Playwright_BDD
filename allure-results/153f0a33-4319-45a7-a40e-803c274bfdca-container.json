@@ -1,0 +1,1 @@
+{"uuid": "c1f356ac-c90e-44e3-88d3-631cf402889c", "befores": [{"name": "pytestbdd_stepdef_then_access should be denied", "status": "passed", "start": 1791350521167, "stop": 1791350521167}], "afters": [{"name": "pytestbdd_stepdef_then_access should be denied::<lambda>", "start": 1791350521175}], "start": 1791350521167, "stop": 1791350521175}

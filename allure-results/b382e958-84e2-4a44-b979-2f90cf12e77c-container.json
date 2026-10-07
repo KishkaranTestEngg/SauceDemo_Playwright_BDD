@@ -1,0 +1,1 @@
+{"uuid": "6940fea4-9048-4221-bda6-f895a5fc8d5f", "befores": [{"name": "pytestbdd_stepdef_when_I enter the checkout user details", "status": "passed", "start": 1791350536591, "stop": 1791350536591}], "afters": [{"name": "pytestbdd_stepdef_when_I enter the checkout user details::<lambda>", "start": 1791350536953}], "start": 1791350536591, "stop": 1791350536953}

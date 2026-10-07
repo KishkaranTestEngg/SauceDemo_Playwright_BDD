@@ -1,0 +1,1 @@
+{"uuid": "0b308e9f-582f-47ff-a48e-4b6ca00a2217", "befores": [{"name": "pytestbdd_stepdef_then_the cart should be empty", "status": "passed", "start": 1791350544603, "stop": 1791350544603}], "afters": [{"name": "pytestbdd_stepdef_then_the cart should be empty::<lambda>", "start": 1791350544622}], "start": 1791350544603, "stop": 1791350544622}
